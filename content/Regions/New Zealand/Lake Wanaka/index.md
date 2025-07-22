@@ -1,0 +1,4 @@
+---
+title: Lake Wanaka
+---
+Now...
